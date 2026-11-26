@@ -9,7 +9,7 @@ if (!base.startsWith('/') || !base.endsWith('/')) {
 }
 
 export default defineConfig({
-  lang: 'en-US',
+  lang: 'zh-CN',
   title: 'Project Pig Brand',
   description: 'A shared home for Project Pig brand documentation.',
   base,
@@ -20,82 +20,58 @@ export default defineConfig({
   themeConfig: {
     siteTitle: 'Project Pig Brand',
     nav: [
-      { text: 'Guide', link: '/guide/getting-started' },
-      { text: 'Brand', link: '/brand/' },
-      { text: 'Assets', link: '/assets/' },
+      { text: '品牌故事', link: '/brand/' },
+      { text: '做到哪了', link: '/brand/system/baseline' },
+      { text: '品牌系统', link: '/brand/system/' },
     ],
     sidebar: [
       {
-        text: 'Documentation',
+        text: '先读这里',
         items: [
-          { text: 'Getting started', link: '/guide/getting-started' },
-          { text: 'Contributing', link: '/guide/contributing' },
+          { text: '品牌故事', link: '/brand/' },
+          { text: '做到哪了', link: '/brand/system/baseline' },
+          { text: '品牌系统', link: '/brand/system/' },
         ],
       },
       {
-        text: 'Brand',
+        text: '设计与验证',
+        collapsed: true,
         items: [
-          { text: 'Overview', link: '/brand/' },
-          { text: '生活主理人企划案', link: '/brand/life-curator-plan' },
-          { text: 'Visual identity', link: '/brand/visual-identity' },
-          { text: 'Voice and writing', link: '/brand/voice-and-writing' },
+          { text: 'B1 · 品牌定义', link: '/brand/system/b1/' },
+          { text: 'W3 · 比较创意', link: '/brand/system/w3/' },
+          { text: 'B2 · 品牌表达', link: '/brand/system/b2/' },
+          { text: 'B3 · 体验与履约', link: '/brand/system/b3/' },
+          { text: 'B4 · 交付与维护', link: '/brand/system/b4/' },
         ],
       },
       {
-        text: 'The Words',
+        text: '查方法和原稿',
+        collapsed: true,
         items: [
-          { text: 'README · Our workflow', link: '/brand/the-words/README' },
-          {
-            text: '1. Prepare group material',
-            link: '/brand/the-words/01-material',
-          },
-          {
-            text: '生活主理人 · 解构与分析',
-            link: '/brand/the-words/life-curator-analysis',
-          },
-          {
-            text: '2. Abstract the material',
-            link: '/brand/the-words/02-abstraction',
-          },
-          {
-            text: '3. Choose an inner idea and words',
-            link: '/brand/the-words/03-inner-idea',
-          },
-          {
-            text: '4. Research the audience',
-            link: '/brand/the-words/04-audience',
-          },
-          {
-            text: '5. Define positioning',
-            link: '/brand/the-words/05-positioning',
-          },
-          {
-            text: '6. Transform into outward language',
-            link: '/brand/the-words/06-expression',
-          },
-          {
-            text: '7. Apply, test and refine',
-            link: '/brand/the-words/07-testing',
-          },
+          { text: '工作方法', link: '/brand/system/workflow' },
+          { text: '决定与原稿', link: '/brand/system/replay' },
+          { text: '生活主理人企划原稿', link: '/brand/life-curator-plan' },
+          { text: '资产入口', link: '/assets/' },
+          { text: '本地预览', link: '/guide/getting-started' },
+          { text: '如何维护', link: '/guide/contributing' },
         ],
-      },
-      {
-        text: 'Resources',
-        items: [{ text: 'Asset library', link: '/assets/' }],
       },
     ],
     search: { provider: 'local' },
     outline: { level: [2, 3] },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/quovolt/project-pig-brand' },
+      {
+        icon: 'github',
+        link: 'https://github.com/SebsPresso/project-pig-brand',
+      },
     ],
     editLink: {
       pattern:
-        'https://github.com/quovolt/project-pig-brand/edit/main/docs/:path',
+        'https://github.com/SebsPresso/project-pig-brand/edit/main/docs/:path',
       text: 'Edit this page on GitHub',
     },
     footer: {
-      message: 'Project Pig brand documentation · Foundation in progress',
+      message: 'Project Pig brand documentation · Working system',
     },
   },
 })

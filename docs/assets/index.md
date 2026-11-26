@@ -1,17 +1,5 @@
-# Asset library
+# 资产入口
 
-::: info No assets yet
-No brand assets have been added. This page is ready to become an index of approved resources.
-:::
+目前保留的是研究和设计证据，不是可公开下载的生产包。先读[当前进度](../brand/system/baseline)，从[提交与保留](../brand/system/retention)找到原始样本、规则、字体许可和原型。
 
-## Add an approved resource
-
-For each asset or collection, record:
-
-- A descriptive name and a link to the file or source.
-- Its approval status and version or date.
-- The intended use and available formats.
-- Ownership, source, and any license restrictions.
-- Related [visual identity guidance](../brand/visual-identity).
-
-Use descriptive filenames and avoid committing generated site output. Review access and usage rights before adding any third-party or sensitive material.
+进入使用清单前，逐项记录版本、用途、来源、权利和验证状态。未经批准的商标候选、第三方参照和落选资产不得当成品牌使用文件。VitePress 生成目录不作为源文件提交。

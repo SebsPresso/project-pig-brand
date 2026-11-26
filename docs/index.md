@@ -3,28 +3,15 @@ layout: home
 
 hero:
   name: Project Pig
-  text: Brand documentation
-  tagline: A shared place to develop, document, and maintain the brand.
+  text: 生活，向未定之处生长
+  tagline: 把食材准备好，把晚饭怎么过留给自己。
   actions:
     - theme: brand
-      text: Get started
-      link: /guide/getting-started
-    - theme: alt
-      text: Explore the brand
+      text: 读品牌的故事
       link: /brand/
-
-features:
-  - title: Brand foundations
-    details: A home for approved positioning, principles, and brand decisions as they take shape.
-    link: /brand/
-  - title: Identity and voice
-    details: Dedicated spaces for visual identity and writing guidance, ready for approved content.
-    link: /brand/visual-identity
-  - title: Shared resources
-    details: Keep approved assets and their usage guidance easy to find.
-    link: /assets/
+    - theme: alt
+      text: 看做到哪了
+      link: /brand/system/baseline
 ---
 
-::: info Documentation foundation
-This site is the documentation scaffold. Brand guidelines and assets have not yet been added. The default VitePress styling is not an approved brand identity.
-:::
+这是 Project Pig 的品牌工作稿。想知道一个决定从哪来，可以查[品牌系统和原稿](/brand/system/)。

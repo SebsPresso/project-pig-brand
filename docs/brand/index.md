@@ -1,25 +1,11 @@
-# Brand overview
+# 一顿饭还没写完
 
-::: info Awaiting content
-This page is a placeholder. No brand positioning, principles, or audience definitions have been established by this scaffold.
-:::
+快下班时，本来想做顿饭。等忙完再去买肉，常做的那一块也许已经卖完。换个部位不是不行，只是还得想该怎么做、几点能吃上；再晚一点，索性点外卖。Project Pig 最早想解决的，就是下班后这段还得接着费心的时间。
 
-## What belongs here
+所以我们从肉品做起。能提前安排的，就试着按需要准备；肉从哪来、多少钱、什么时候能到，这些该由卖家说清楚。什么时候有条件临时调整，也得说清楚。能帮到哪一步，要看实际做得到什么。
 
-As decisions are approved, document:
+可一顿饭真正让人惦记的，往往是准备清楚以后才想起来的事。有人晚到，发消息说：「给我留一口锅边的。」本来想独自随便吃点，听了这句，又愿意等一会儿。也可以不等，先吃自己那一份。食材可以提前备下，这顿饭不必提前写完。
 
-- The brand's purpose and positioning.
-- The audiences it serves.
-- The principles that guide its expression.
-- The relationship between the brand, product, and organization names.
-- Links to decision sources and related research.
+**生活，向未定之处生长。** 我们愿意做准备的人。你需要时，我们把能提供的帮助摆在手边；至于怎么吃、和谁吃、要不要多试一种做法，都是你的事。这是品牌的立场；晚到的场景只是一个例子，不是对改约和配送的许诺。
 
-## Related guidance
-
-- [生活主理人企划案](./life-curator-plan)
-
-- [The Words: our workflow](./the-words/README)
-
-- [Visual identity](./visual-identity)
-- [Voice and writing](./voice-and-writing)
-- [Asset library](../assets/)
+[先看 B1 定下了什么](./system/b1/) · [看看这个品牌已经做到哪了](./system/baseline) · [为什么这么选，怎么继续做](./system/)
