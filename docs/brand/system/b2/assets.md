@@ -32,8 +32,9 @@ import { withBase } from 'vitepress'
 
 <a :href="withBase('/b2/type-lab/index.html')">原排版试验台</a> ·
 <a :href="withBase('/b2/type-lab/specimen.html')">原排版样稿</a> ·
-<a :href="withBase('/b2/type-lab/scenarios/index.html')">场景样张</a> ·
-<a :href="withBase('/b2/type-lab/FONT-VALIDATION.json')">字体版本与文件校验</a>
+<a :href="withBase('/b2/type-lab/scenarios/index.html')">双触点场景样张</a>（<a :href="withBase('/b2/type-lab/scenarios/campaign.html')">宣传触点</a> / <a :href="withBase('/b2/type-lab/scenarios/product.html')">商品信息触点</a>） ·
+<a :href="withBase('/b2/type-lab/FONT-VALIDATION.json')">字体版本与文件校验</a> ·
+<a :href="withBase('/b2/type-lab/RECOVERY-MANIFEST.json')">原站文件恢复清单</a>
 
 | 位置             | 当前采用                    | 原字体与归档许可                                                                                                                                               |
 | ---------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |

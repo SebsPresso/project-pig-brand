@@ -2,7 +2,7 @@
 
 The dedicated documentation repository for Project Pig's brand, built with [VitePress](https://vitepress.dev/).
 
-Start at [the brand system](docs/brand/system/index.md) for the B1–B4 architecture, current baseline, and decision gates. This is work in progress, not final brand guidance. The VitePress styling is not the brand identity.
+Documentation is organized into two complementary parts: [藏锐路径（品牌叙事与信息披露范式）](docs/brand/narrative/paradigm.md) starting from [the brand story](docs/brand/index.md), and [品牌工程骨架（B1–B4 有序推导体系）](docs/brand/system/index.md) for the current baseline and decision gates. This is work in progress, not final brand guidance. The VitePress styling is not the brand identity.
 
 ## Requirements
 

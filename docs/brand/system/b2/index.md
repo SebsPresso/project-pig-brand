@@ -12,7 +12,8 @@ import TypeSpecimen from './TypeSpecimen.vue'
 <div class="b2-quick-links">
   <a :href="withBase('/b2/type-lab/specimen.html')">打开原排版样稿</a> ·
   <a :href="withBase('/b2/type-lab/index.html')">进入原排版试验台</a> ·
-  <a href="./assets">看历轮概念图、字体比较和原文件</a>
+  <a :href="withBase('/b2/type-lab/scenarios/index.html')">查看双触点场景样张</a> ·
+  <a href="./assets.html">看历轮概念图、字体比较和原文件</a>
 </div>
 
 <TypeSpecimen />
